@@ -234,6 +234,12 @@ footer{
     height: 10vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     color: #555;
+    margin: 0 .5em;
+}
+.footer__div-a{
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 5px;
 }
