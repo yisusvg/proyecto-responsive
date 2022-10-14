@@ -80,7 +80,7 @@ a:hover{
 	transition: .5s;
 }
 .article-1{
-    height: 90vh;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -97,7 +97,8 @@ a:hover{
     color: #fff;
 }
 .article-1__h1{
-    font-size: 7vw;
+    font-size: 1.6em;
+    margin: 0 1em;
 }
 .article-1__p{
     margin: 1em;
